@@ -1,0 +1,10 @@
+{
+  "name": "Facebook Blocker",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Restrict yourself to not use Facebook",
+  "browser_action": {
+    "default_icon": "3105204.png",
+    "default_popup": "popup.html"
+  }
+}
